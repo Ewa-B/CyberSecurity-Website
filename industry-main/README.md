@@ -1,1 +1,1 @@
-# group_project 2022 working in comp industry
+# Uni group project 2022 - Working in computing industry.
